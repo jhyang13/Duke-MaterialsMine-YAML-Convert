@@ -4,7 +4,7 @@
 This project contains two Python scripts designed for converting between XML and YAML file formats. These scripts are particularly useful for handling structured data in the field of materials science, allowing easy conversion of data from XML to YAML format and vice versa.
 
 ## File Descriptions
-### 1. xml_to_yaml_converter.py
+### 1. XML_to_YAML.ipynb
 #### Functionality
 This script is used to convert an XML file into a YAML file. It parses the structured data from an XML file into a dictionary and then writes it into a YAML file.
 
@@ -15,7 +15,7 @@ This script is used to convert an XML file into a YAML file. It parses the struc
 
 - Run the Script: Execute the script, and the YAML file will be generated at the specified location.
 
-### 2. yaml_to_xml_converter.py
+### 2. YAML_to_XML.ipynb
 #### Functionality
 This script converts a YAML file back into an XML file. It loads data from a YAML file and converts it into its original XML structure.
 
