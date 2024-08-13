@@ -12,7 +12,6 @@ This script is used to convert an XML file into a YAML file. It parses the struc
 - File Path Setup: In the script, modify the following variables to point to your input XML file path and output YAML file path.
   - xml_input_path: The path to the input XML file.
   - yaml_output_path: The path where the generated YAML file will be saved.
-
 - Run the Script: Execute the script, and the YAML file will be generated at the specified location.
 
 ### 2. YAML_to_XML.ipynb
