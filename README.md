@@ -4,6 +4,7 @@
 This project contains two Python scripts designed for converting between XML and YAML file formats. These scripts are particularly useful for handling structured data in the field of materials science, allowing easy conversion of data from XML to YAML format and vice versa.
 
 **XSD Schema:** https://qa.materialsmine.org/portal/view-schema
+**API Docs:** https://materialsmine.org/api/api-docs/
 
 ## File Descriptions
 ### 1. XML_to_YAML.ipynb
